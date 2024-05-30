@@ -11,7 +11,7 @@
   
 # 💫About Me :
 🌱 I’m currently learning : Laravel
-  💬 Ask me about for any help
+  💬 Ask me if you have any questions
 
   📫 How to reach me:  
   Mail me at "laytonbrth@gmail.com" or 
